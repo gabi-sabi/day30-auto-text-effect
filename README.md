@@ -1,0 +1,1 @@
+# day30-auto-text-effect
